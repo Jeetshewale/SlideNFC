@@ -1,0 +1,27 @@
+h1{
+  color:#FFFFFF;
+  margin:0;
+  font-size:50px;
+}
+h2{
+  color:#FFFFFF;
+}
+.container-one{
+  background-color:#191A19;
+}
+body{
+  margin:0;
+  background-color:#7743DB;
+  text-align:center;
+}
+img{
+  width:15%;
+}
+p{
+  font-size:25px;
+}
+a{
+  color: white;
+  margin: 0;
+  font-size: 20px;
+}
